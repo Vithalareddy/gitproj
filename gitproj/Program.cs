@@ -14,7 +14,8 @@ namespace gitproj
             Console.WriteLine("User Name: "+name);
             Console.WriteLine("Akshitha");
             Console.WriteLine("Neeharika");
-            Console.WriteLine("siva rama raju 459 ");
+            Console.WriteLine("scott siva rama raju 459 ");
+            Console.WriteLine("snithavi");
         }
     }
 }
