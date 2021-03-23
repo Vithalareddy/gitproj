@@ -12,5 +12,9 @@ namespace gitproj
         {
             Console.WriteLine("siva demo jenkins");
         }
+        static void siva2()
+        {
+            Console.WriteLine("sivaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        }
     }
 }
