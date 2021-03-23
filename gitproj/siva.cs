@@ -16,5 +16,9 @@ namespace gitproj
         {
             Console.WriteLine("sivaaaaaaaaaaaaaaaaaaaaaaaaaaa");
         }
+        public void Vithal()
+        {
+            Console.WriteLine();
+        }
     }
 }
