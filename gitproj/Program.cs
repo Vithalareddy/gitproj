@@ -22,5 +22,11 @@ namespace gitproj
             Console.WriteLine("snithavi22");
 
         }
+        public void add()
+        {
+            int a = 1;
+            int b = 0;
+            Console.WriteLine(a+b);
+        }
     }
 }
